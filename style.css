@@ -43,7 +43,9 @@
 	background: #e74c3c;
 	padding: 10px 30px;
 	border-radius: 8px;
-	color:white;
+	color: white;
+	z-index: 5;
+	bottom: 5px;
 }
 body{
 	background: #2c3e50;
